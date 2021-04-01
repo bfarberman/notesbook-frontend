@@ -5,4 +5,5 @@ NotesBook is a place to store your music thoughts while on the go. For any album
 Made Using:
 
 A React frontend
+
 A Rails backend 
