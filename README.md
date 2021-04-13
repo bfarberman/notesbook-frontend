@@ -25,5 +25,9 @@ FEATURES:
 
 -Delete entries 
 
+CHALLENGES:
+
+FUTURE IMPLEMENTATIONS:
+
 ![1_LToeqywE2mjE_Ov0NJfMDA](https://user-images.githubusercontent.com/53374859/113357111-6a2d1a80-9311-11eb-8db3-05da026990df.png)
 
